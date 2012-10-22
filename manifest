@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1
+apiversion: 2
+description: FREE
+author: Clearly Innovative Inc
+license: FREE
+copyright: 2012
+
+
+# these should not be edited
+name: codestrong_android
+moduleid: ci.android.moduleone
+guid: 4335d919-4a5d-409c-8a02-20b409b51a3b
+platform: android
+minsdk: 2.1.3.GA
