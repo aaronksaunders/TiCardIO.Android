@@ -17,7 +17,7 @@ Ti.API.info("module is => " + JSON.stringify(codestrong_android.LCAT, null, 2));
 
 
 var proxy = codestrong_android.createCardIO({
-	"APP_TOKEN" : "24e891759c83494c810d9fe374ae38d3",
+	"APP_TOKEN" : "APP TOKEN GOES HERE",
 	"REQUIRE_EXPIRY" : true,
 	"REQUIRE_CVV" : true,
 	"REQUIRE_ZIP" : true,
